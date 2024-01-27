@@ -1,5 +1,4 @@
 package com.teachmeskills.lesson6.task2;
-
 public class Runner {
     public static void main(String[] args) {
         Student student1 = new Student("name1", "surname1","passport1", "C27-onl");

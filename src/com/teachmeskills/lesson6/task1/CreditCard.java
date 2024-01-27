@@ -1,5 +1,4 @@
 package com.teachmeskills.lesson6.task1;
-
 public class CreditCard {
     public int accountNumber;
     public double amount;
